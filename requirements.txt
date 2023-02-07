@@ -1,0 +1,6 @@
+bs4==0.0.1
+nltk==3.8.1
+scikit-learn==1.2.0
+gensim==4.3.0
+textblob==0.17.1
+xlsxwriter==3.0.2

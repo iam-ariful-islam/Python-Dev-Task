@@ -1,0 +1,35 @@
+01. MILITARY GRADE STANDAR : Original(Length: 244, words: 39):
+EIGIIS military smart watch has a 10 military grade certifications and can be used under the harsh environmental conditions, such as 70 ℃ heat resistance,40 ℃ cold resistance; 120 hours resistance to humidity, 96 hours resistance to salt spray.
+
+Generated(Length: 79, words: 12):
+℃ military hours to resistance humidity, heat harsh watch used the resistance; 
+Sentiment[Polarity=-0.15000000000000002]: Negative
+
+02. BLUETOOTH DIALING & BUILT IN SPEAKE : Original(Length: 429, words: 66):
+EIGIIS tactical smart watch supports Bluetooth dial and answer calls. You can directly make calls and answer calls on your watch. Get free from your phone especially when you are driving, or jogging, etc.Built in speaker, EIGIIS mens smart watch can not only control the phone music playing, but also play the music itself. Besides, EIGIIS also supports calorie/ distance calculation, weather forecast, message notifications etc.
+
+Generated(Length: 119, words: 21):
+EIGIIS also calls music your can the answer phone smart watch supports and but from etc. driving, only calls. not dial 
+Sentiment[Polarity=0.10714285714285714]: Positive
+
+03. MULTI SPORTS MODES & LONG TIME STANDB : Original(Length: 413, words: 72):
+As a fitness tracker watch, EIGIIS mens sport watch supports 7 sports modes to record your workout on "Dafit" app. Connect your phone's GPS to measure accurate activity data and see your fitness targets. Built in a 400mAh battery, it only takes 2 hours to get fully charged and can be used for up to 710 days and long standby time 3045 days. Definitely convenient for your short outdoor activities and adventures.
+
+Generated(Length: 115, words: 20):
+your to and fitness for a "Dafit" takes targets. time used workout watch, supports 2 watch Built it days. accurate 
+Sentiment[Polarity=0.4000000000000001]: Positive
+
+04. HEART RATE MONITORING & SLEEP TRACKIN : Original(Length: 426, words: 70):
+EIGIIS smart watch supports sleep tracker, heart rate monitor, blood pressure & oxygen in real time to get a better understanding of your health. Attention: It is not a medical device!! This Blood Pressure function can't be used as Professional Medical Blood Pressure Monitor. EIGIIS mens tactical smart watch is waterproof so you don't have to take off while washing your hands, however, not for swimming or soaking in water.
+
+Generated(Length: 108, words: 21):
+Pressure in a Blood not is smart EIGIIS to watch your This get monitor, Medical blood can't as heart off of 
+Sentiment[Polarity=0.10714285714285714]: Positive
+
+05. GREAT COMPATIBILITY & 1 YEAR GUARANTE : Original(Length: 450, words: 73):
+EIGIIS android smart watch for men is compatible with most iOS 9.0 and Android 4.4 and above smartphones(not for PC, iPad or tablet), supports iPhone, Samsung, Huawei, Xiaomi, OnePlus etc. Turn on the phone's Bluetooth and connect to the smart watch via APP. EIGIIS provides 12 months moneyback or free replacement. Buy without risk! Aftersales service to assure your longterm enjoyment. If you have any questions or problem, pls contact us any time.
+
+Generated(Length: 151, words: 22):
+or and EIGIIS for any to watch smart the Huawei, replacement. free problem, questions service risk! iPhone, on Aftersales enjoyment. contact Bluetooth 
+Sentiment[Polarity=0.35714285714285715]: Positive
+
